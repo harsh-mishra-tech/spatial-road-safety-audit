@@ -1,0 +1,8 @@
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+*.shp
+*.dbf
+*.shx
+__pycache__/
+.env
