@@ -1,4 +1,12 @@
-# Spatial Geometric Risk & Road Safety Audit Engine
+## Visual Analysis & Hotspot Mapping
+
+![Safety Risk Map](vapi%20safety%20risk%20analysed.png)
+
+*Figure 1: Automated Geometric Risk Classification showing 143 Critical Curve Hazards (Red) across the network.*
+
+![Operating Speed Distribution](curve%20speed%20distribution%20chart.png)
+
+*Figure 2: Cumulative operating speed (S-curve) and 85th-percentile speed drop distribution.*# Spatial Geometric Risk & Road Safety Audit Engine
 
 An automated spatial analysis pipeline using **Python (OSMnx, GeoPandas, Shapely)** and **QGIS** to evaluate roadway networks proactively using geometric consistency and speed differential models.
 
