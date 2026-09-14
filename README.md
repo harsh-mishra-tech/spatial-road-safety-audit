@@ -4,7 +4,7 @@
 
 *Figure 1: Automated Geometric Risk Classification showing 143 Critical Curve Hazards (Red) across the network.*
 
-![Operating Speed Distribution](curve%20speed%20distribution%20chart.png)
+![Operating Speed Distribution](s%20curve%20speed%20distribution%20chart.png)
 
 *Figure 2: Cumulative operating speed (S-curve) and 85th-percentile speed drop distribution.*# Spatial Geometric Risk & Road Safety Audit Engine
 
